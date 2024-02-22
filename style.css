@@ -18,6 +18,7 @@ body {
 
 .active {
 	color: blueviolet;
+	padding: 0 1rem;
 }
 
 .email--color {
