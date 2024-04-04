@@ -58,7 +58,8 @@ body {
 }
 
 @media (max-width: 700px) {
-	.content--section {
-		width: 75%;
+	.content--section,
+	.content--section p {
+		width: 100%;
 	}
 }
