@@ -62,4 +62,11 @@ body {
 	.content--section p {
 		width: 100%;
 	}
+	.navbar {
+		display: flex;
+		flex-direction: column;
+	}
+	.navbar a {
+		padding: 1rem 0;
+	}
 }
